@@ -200,7 +200,7 @@ function App() {
             Answer questions from your textbooks, prepare for exams, and win exciting rewards & coupons.
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+         {/*  <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <button className="group bg-gradient-to-r from-purple-600 to-pink-600 text-white px-8 py-4 rounded-2xl font-semibold text-lg shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 flex items-center gap-3">
               <Download className="w-6 h-6 group-hover:animate-bounce" />
               Download on Google Play
@@ -208,7 +208,7 @@ function App() {
             <button className="bg-white text-purple-600 px-8 py-4 rounded-2xl font-semibold text-lg shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 border-2 border-purple-200 hover:border-purple-300">
               Join Beta Now
             </button>
-          </div>
+          </div> */}
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
             {features.map((feature, index) => (
@@ -441,7 +441,7 @@ function App() {
       </section>
 
       {/* Final CTA */}
-      <section className="py-20 bg-gradient-to-r from-purple-900 via-blue-900 to-green-900">
+      {/*<section className="py-20 bg-gradient-to-r from-purple-900 via-blue-900 to-green-900">
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-5xl font-bold text-white mb-6">Start Your Learning Journey Today</h2>
           <p className="text-xl text-purple-100 mb-12 max-w-2xl mx-auto">
@@ -454,7 +454,7 @@ function App() {
             <Zap className="w-6 h-6" />
           </button>
         </div>
-      </section>
+      </section>*/}
 
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-12">

@@ -29,7 +29,7 @@ export default function TermsOfService({ onBack }: TermsOfServiceProps) {
           <div className="prose prose-lg max-w-none">
             <div className="bg-gradient-to-r from-blue-50 to-purple-50 p-6 rounded-2xl mb-8">
               <p className="text-gray-700 leading-relaxed">
-                These terms and conditions apply to the <strong>AvinyaAi app</strong> (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Freemium service.
+                These terms and conditions apply to the <strong>path2wise.ai</strong> (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Freemium service.
               </p>
             </div>
 

@@ -29,7 +29,7 @@ export default function PrivacyPolicy({ onBack }: PrivacyPolicyProps) {
           <div className="prose prose-lg max-w-none">
             <div className="bg-gradient-to-r from-purple-50 to-pink-50 p-6 rounded-2xl mb-8">
               <p className="text-gray-700 leading-relaxed">
-                This privacy policy applies to the <strong>AvinyaAi app</strong> (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+                This privacy policy applies to the <strong>path2wise.ai</strong> (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
               </p>
             </div>
 
@@ -115,7 +115,7 @@ export default function PrivacyPolicy({ onBack }: PrivacyPolicyProps) {
               </h2>
               <div className="bg-orange-50 p-6 rounded-xl">
                 <p className="text-gray-700">
-                  The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at <a href="mailto:nitishj639@gmail.com" className="text-orange-600 hover:text-orange-800 font-medium">nitishj639@gmail.com</a> and they will respond in a reasonable time.
+                  The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at <a href="mailto:nitishjha@pathwise.in" className="text-orange-600 hover:text-orange-800 font-medium">nitishjha@pathwise.in</a> and they will respond in a reasonable time.
                 </p>
               </div>
             </section>
@@ -132,7 +132,7 @@ export default function PrivacyPolicy({ onBack }: PrivacyPolicyProps) {
                   The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
                 </p>
                 <p className="text-gray-700">
-                  The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (<a href="mailto:nitishj639@gmail.com" className="text-pink-600 hover:text-pink-800 font-medium">nitishj639@gmail.com</a>) so that they will be able to take the necessary actions.
+                  The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (<a href="mailto:nitishjha@pathwise.in" className="text-pink-600 hover:text-pink-800 font-medium">nitishjha@pathwise.in</a>) so that they will be able to take the necessary actions.
                 </p>
               </div>
             </section>
@@ -189,8 +189,8 @@ export default function PrivacyPolicy({ onBack }: PrivacyPolicyProps) {
               <div className="bg-red-50 p-6 rounded-xl">
                 <p className="text-gray-700">
                   If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at{' '}
-                  <a href="mailto:nitishj639@gmail.com" className="text-red-600 hover:text-red-800 font-medium">
-                    nitishj639@gmail.com
+                  <a href="mailto:nitishjha@pathwise.in" className="text-red-600 hover:text-red-800 font-medium">
+                    nitishjha@pathwise.in
                   </a>.
                 </p>
               </div>
