@@ -35,6 +35,11 @@ function App() {
     e.preventDefault();
     if (!email) return;
 
+    // Check if Supabase is properly configured
+    if (!import.meta.env.VITE_SUPABASE_URL || !import.meta.env.VITE_SUPABASE_ANON_KEY) {
+      setSubmitError('Service temporarily unavailable. Please try again later.');
+      return;
+    }
     setIsSubmitting(true);
     setSubmitError('');
 
